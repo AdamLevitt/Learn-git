@@ -1,3 +1,6 @@
-# Learn-git
+# Git & Github Course
 
-This repo was used to learn git
+##Learning Git from Amigoscode
+https://www.youtube.com/watch?v=3fUbBnN_H2c
+
+
